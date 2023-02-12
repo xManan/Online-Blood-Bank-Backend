@@ -40,7 +40,7 @@ class App {
     }
 
     private initialiseDatabaseConnection() {
-        mongoose.connect("mongodb://localhost:27017/blogpost")
+        mongoose.connect("mongodb://localhost:27017/blood-bank")
     }
 
     public listen(){

@@ -1,12 +1,12 @@
 {
-  "id": 1,
+  
   "state": "Andaman and Nicobar Islands",
   "cities": [
     "Port Blair"
   ]
 }
 {
-  "id": 2,
+  
   "state": "Andhra Pradesh",
   "cities": [
     "Visakhapatnam",
@@ -95,7 +95,7 @@
   ]
 }
 {
-  "id": 3,
+  
   "state": "Arunachal Pradesh",
   "cities": [
     "Naharlagun",
@@ -103,7 +103,7 @@
   ]
 }
 {
-  "id": 4,
+  
   "state": "Assam",
   "cities": [
     "Guwahati",
@@ -135,7 +135,7 @@
   ]
 }
 {
-  "id": 5,
+  
   "state": "Bihar",
   "cities": [
     "Patna",
@@ -211,14 +211,14 @@
   ]
 }
 {
-  "id": 6,
+  
   "state": "Chandigarh",
   "cities": [
     "Chandigarh"
   ]
 }
 {
-  "id": 7,
+  
   "state": "Chhattisgarh",
   "cities": [
     "Raipur",
@@ -243,14 +243,14 @@
   ]
 }
 {
-  "id": 8,
+  
   "state": "Dadra and Nagar Haveli",
   "cities": [
     "Silvassa"
   ]
 }
 {
-  "id": 9,
+  
   "state": "Delhi",
   "cities": [
     "Delhi",
@@ -258,7 +258,7 @@
   ]
 }
 {
-  "id": 10,
+  
   "state": "Goa",
   "cities": [
     "Marmagao",
@@ -268,7 +268,7 @@
   ]
 }
 {
-  "id": 11,
+  
   "state": "Gujarat",
   "cities": [
     "Ahmedabad",
@@ -347,7 +347,7 @@
   ]
 }
 {
-  "id": 12,
+  
   "state": "Haryana",
   "cities": [
     "Faridabad",
@@ -390,14 +390,14 @@
   ]
 }
 {
-  "id": 13,
+  
   "state": "Himachal Praddesh",
   "cities": [
     "Manali"
   ]
 }
 {
-  "id": 14,
+  
   "state": "Himachal Pradesh",
   "cities": [
     "Shimla",
@@ -410,7 +410,7 @@
   ]
 }
 {
-  "id": 15,
+  
   "state": "Jammu and Kashmir",
   "cities": [
     "Srinagar",
@@ -425,7 +425,7 @@
   ]
 }
 {
-  "id": 16,
+  
   "state": "Jharkhand",
   "cities": [
     "Dhanbad",
@@ -458,7 +458,7 @@
   ]
 }
 {
-  "id": 17,
+  
   "state": "Karnataka",
   "cities": [
     "Bengaluru",
@@ -544,7 +544,7 @@
   ]
 }
 {
-  "id": 18,
+  
   "state": "Kerala",
   "cities": [
     "Thiruvananthapuram",
@@ -601,7 +601,7 @@
   ]
 }
 {
-  "id": 19,
+  
   "state": "Madhya Pradesh",
   "cities": [
     "Indore",
@@ -689,7 +689,7 @@
   ]
 }
 {
-  "id": 20,
+  
   "state": "Maharashtra",
   "cities": [
     "Mumbai",
@@ -815,7 +815,7 @@
   ]
 }
 {
-  "id": 21,
+  
   "state": "Manipur",
   "cities": [
     "Imphal",
@@ -825,7 +825,7 @@
   ]
 }
 {
-  "id": 22,
+  
   "state": "Meghalaya",
   "cities": [
     "Shillong",
@@ -834,7 +834,7 @@
   ]
 }
 {
-  "id": 23,
+  
   "state": "Mizoram",
   "cities": [
     "Aizawl",
@@ -843,7 +843,7 @@
   ]
 }
 {
-  "id": 24,
+  
   "state": "Nagaland",
   "cities": [
     "Dimapur",
@@ -855,7 +855,7 @@
   ]
 }
 {
-  "id": 25,
+  
   "state": "Odisha",
   "cities": [
     "Bhubaneswar",
@@ -895,7 +895,7 @@
   ]
 }
 {
-  "id": 26,
+  
   "state": "Puducherry",
   "cities": [
     "Pondicherry",
@@ -905,7 +905,7 @@
   ]
 }
 {
-  "id": 27,
+  
   "state": "Punjab",
   "cities": [
     "Ludhiana",
@@ -965,7 +965,7 @@
   ]
 }
 {
-  "id": 28,
+  
   "state": "Rajasthan",
   "cities": [
     "Jaipur",
@@ -1049,7 +1049,7 @@
   ]
 }
 {
-  "id": 29,
+  
   "state": "Tamil Nadu",
   "cities": [
     "Chennai",
@@ -1167,7 +1167,7 @@
   ]
 }
 {
-  "id": 30,
+  
   "state": "Telangana",
   "cities": [
     "Hyderabad",
@@ -1213,7 +1213,7 @@
   ]
 }
 {
-  "id": 31,
+  
   "state": "Tripura",
   "cities": [
     "Agartala",
@@ -1226,7 +1226,7 @@
   ]
 }
 {
-  "id": 32,
+  
   "state": "Uttar Pradesh",
   "cities": [
     "Lucknow",
@@ -1350,7 +1350,7 @@
   ]
 }
 {
-  "id": 33,
+  
   "state": "Uttarakhand",
   "cities": [
     "Dehradun",
@@ -1374,7 +1374,7 @@
   ]
 }
 {
-  "id": 34,
+  
   "state": "West Bengal",
   "cities": [
     "Kolkata",
