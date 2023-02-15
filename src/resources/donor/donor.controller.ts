@@ -22,10 +22,10 @@ class DonorController implements Controller {
             this.register
         )
 
-        // this.router.post(
-        //     `${this.findDonor}`,
-        //     this.get
-        // )
+        this.router.post(
+            `${this.findDonor}`,
+            this.get
+        )
     }
     private register = async (req: Request, res: Response, next: NextFunction): Promise<Response|void> => {
         try {
@@ -35,15 +35,14 @@ class DonorController implements Controller {
             next(new HttpException(400, e.message))
         }
     }
-    // private async get(req: Request, res: Response, next: NextFunction): Promise<Response|void> {
-    //     try {
-    //         console.log(this.DonorService)
-    //         const donor = await this.DonorService.get(req.body)
-    //         res.status(201).json({ donor })
-    //     } catch(e){
-    //         next(new HttpException(400, e.message))
-    //     }
-    // }
+    private get = async (req: Request, res: Response, next: NextFunction): Promise<Response|void> => {
+        try {
+            const donors = await this.DonorService.get(req.body)
+            res.status(201).json({ donors })
+        } catch(e){
+            next(new HttpException(400, e.message))
+        }
+    }
 
 }
 
